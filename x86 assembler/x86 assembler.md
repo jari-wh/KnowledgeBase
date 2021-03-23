@@ -75,4 +75,4 @@ ELF文件格式为开放标准，分为三种类型：
 
 如下图所示，ELF文件提供两种视角：链接器把ELF文件看做Section的集合（链接视图），加载器把ELF文件看做Segment的集合（执行视图）。一个Segment可包含多个Section。
 
-![](./ELF format.jpg)
+![](ELF_format.jpg)
